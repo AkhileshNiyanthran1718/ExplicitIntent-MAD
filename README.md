@@ -175,6 +175,7 @@ Activity_main2.xml
     app:layout_constraintTop_toTopOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
+'''
 
 ## OUTPUT
 <img width="959" height="563" alt="image" src="https://github.com/user-attachments/assets/5977bc85-bd46-4c19-9185-d3a03aaa1361" />
